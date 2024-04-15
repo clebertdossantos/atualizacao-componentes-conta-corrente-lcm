@@ -1,7 +1,4 @@
-exports.user = {
-    "usuario": "cleber.santos",
-    "senha" : "qwSabrina.654321"
-}
+
 
 exports.authorizationCloud = {
     "App-Context": "eyJleGVyY2ljaW8iOjIwMjN9",
